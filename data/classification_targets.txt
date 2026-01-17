@@ -1,0 +1,8 @@
+Ratenplan anfordern
+Ratenplan unterschrieben zurücksenden
+Patient übermittelt Leistungsbescheid
+Patient fragt erneute Zusendung des Passworts fürs Onlineportal an
+Patient braucht eine Rechnungskopie
+Patient möchte später zahlen
+Patient teilt mit, dass er überwiesen hat
+Sonstiges

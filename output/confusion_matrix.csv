@@ -1,0 +1,9 @@
+,Pred_Patient braucht eine Rechnungskopie,Pred_Patient fragt erneute Zusendung des Passworts fürs Onlineportal an,Pred_Patient möchte später zahlen,"Pred_Patient teilt mit, dass er überwiesen hat",Pred_Patient übermittelt Leistungsbescheid,Pred_Ratenplan anfordern,Pred_Ratenplan unterschrieben zurücksenden,Pred_Sonstiges
+True_Patient braucht eine Rechnungskopie,13,0,0,0,0,0,0,0
+True_Patient fragt erneute Zusendung des Passworts fürs Onlineportal an,0,11,0,0,0,0,0,1
+True_Patient möchte später zahlen,0,0,10,0,0,0,0,2
+"True_Patient teilt mit, dass er überwiesen hat",0,0,0,5,0,1,0,0
+True_Patient übermittelt Leistungsbescheid,0,0,0,0,10,0,0,0
+True_Ratenplan anfordern,0,0,0,0,0,12,0,0
+True_Ratenplan unterschrieben zurücksenden,0,0,0,0,0,0,11,1
+True_Sonstiges,0,0,0,0,0,0,2,4
