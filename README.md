@@ -65,6 +65,17 @@ docker-compose up -d
 # Wartet automatisch bis llama3 geladen ist
 ```
 
+### Daten bereitstellen
+
+Die Eingabedaten müssen als CSV-Datei unter `data/data.csv` abgelegt werden. Erforderliche Spalten:
+
+| Spalte | Beschreibung |
+|--------|-------------|
+| `Betreff` | Betreffzeile der E-Mail |
+| `Text` | Inhalt der E-Mail |
+| `Anlagen` | Anhänge (optional) |
+| `Anliegen` | Ground-Truth-Label für Evaluation |
+
 ### Ausführung
 
 ```bash
